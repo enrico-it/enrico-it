@@ -6,7 +6,7 @@ I know it sounds a little bit odd for an IT system electronics technician to do 
 
 For me, it's really important to have a good work attitude. That means working hard, being cooperative, and showing interest in your work.
 
-This programming journey of mine will showcase my projects, portfolio, and ideas from beginning to end. I would be happy if you could suggest improvements to my projects or point out my mistakes so that I can learn from them.
+This programming journey of mine will showcase my projects, portfolio, and ideas from beginning to the end. I would be happy if you could suggest improvements to my projects or point out my mistakes so that I can learn from them.
 
 ## [This is my Portfolio][MySite]
 
